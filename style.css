@@ -10,19 +10,24 @@
 
 }
 
+body {
+    background-color: black;
+    
+}
+
 .main {
     background-image: url(assets/images/bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: max(1200px, 100vw);
-    height: 80vh;
+    height: 70vh;
     position: relative;
 }
 
 .main .box {
-    height: 80vh;
+    height: 70vh;
     width: 100%;
-    opacity: 0.6;
+    opacity: 0.7;
     background-color: black;
     position: absolute;
     top: 0;
